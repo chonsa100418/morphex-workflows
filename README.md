@@ -1,2 +1,2 @@
-# yearn-workflows
-Github actions workflow
+# Morphex Workflows
+Updated documentation
